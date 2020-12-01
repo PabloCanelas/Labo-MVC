@@ -5,3 +5,5 @@ Las siguientes funcionalidades se implementaron en /Controllers que se encarga d
 - Ver lista de ordenes
 - Ver lista de clientes registrados
 - Ver menu del restaurante.
+
+# El modelo C4 se encuentra en imagenes en la carpeta /C4 Model
